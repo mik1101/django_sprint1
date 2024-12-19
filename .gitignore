@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+venv-NOTE 
+venv-MAIN
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -152,3 +155,5 @@ media/
 build_tests/
 yap_testing
 html/img/img/
+
+.gitignore
